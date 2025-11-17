@@ -26,4 +26,5 @@ The project is organized into several key repositories:
 
 * **IdaNB**: The core framework. This repository contains the main application, foundational code, and core components of the IdaNB platform.
 * **Connectors**: A collection of modules and plugins for integrating with various data sources, forensic tools, and external services.
+* **Deployment**: Configuration files and automation scripts (e.g., Ansible) for deploying a production-ready JupyterHub server configured for IdaNB.
 * *(Additional repositories for documentation, examples, and specialized tools will be added as the project evolves.)*
